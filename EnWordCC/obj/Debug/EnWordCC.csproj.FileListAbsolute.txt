@@ -1,0 +1,9 @@
+F:\clone_source\EnWordCC\EnWordCC\bin\Debug\EnWordCC.exe.config
+F:\clone_source\EnWordCC\EnWordCC\obj\Debug\EnWordCC.FrmMain.resources
+F:\clone_source\EnWordCC\EnWordCC\obj\Debug\EnWordCC.Properties.Resources.resources
+F:\clone_source\EnWordCC\EnWordCC\obj\Debug\EnWordCC.csproj.GenerateResource.Cache
+F:\clone_source\EnWordCC\EnWordCC\bin\Debug\EnWordCC.exe
+F:\clone_source\EnWordCC\EnWordCC\bin\Debug\EnWordCC.pdb
+F:\clone_source\EnWordCC\EnWordCC\obj\Debug\EnWordCC.exe
+F:\clone_source\EnWordCC\EnWordCC\obj\Debug\EnWordCC.pdb
+F:\clone_source\EnWordCC\EnWordCC\obj\Debug\EnWordCC.csprojResolveAssemblyReference.cache
